@@ -128,5 +128,7 @@ Visualization:
 </div>
 Computing Resources:
 <div align=center>
+  
 ![](/Fig9.png)
+
 </div>
