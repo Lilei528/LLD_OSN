@@ -100,27 +100,32 @@ The proposed method is compared with existing noise learning methods:
 ## Experiments
 
 The results compared with the baseline model are as follows:
+<div align=center>
 
 ![](/Fig2.png)
 
 ![Figure3](/Fig3.png)
 
 ![Figure3](/Fig4.png)
+</div>
 
 The sensitivity of the hyperparameters is as follows:
+<div align=center>
 
 ![](/Fig5.png)
-
+</div>
 The impact of confidence is as follows:
+<div align=center>
 
 ![](/Fig6.png)
-
+</div>
 Visualization:
+<div align=center>
 
 ![](/Fig7.png)
 
 ![](/Fig8.png)
-
+</div>
 Computing Resources:
-
-![](/Fig9.png)
+<div align=center>
+![](/Fig9.png)</div>
